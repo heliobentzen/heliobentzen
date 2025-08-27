@@ -9,7 +9,7 @@
 
 ### Technology Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,node,react,java,mysql,wordpress,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,java,mysql,wordpress,docker,vscode" />
 </p>
 
 <hr>
