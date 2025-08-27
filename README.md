@@ -1,11 +1,11 @@
 ## Helio Bentzen
 
 ### 📬 Contact
-- **E-mail institucional:** [helio.filho@ifpe.edu.br](mailto:helio.filho@ifpe.edu.br)
+- **E-mail institucional:** [helio.filho@palmares.ifpe.edu.br](mailto:helio.filho@palmares.ifpe.edu.br)
 - **LinkedIn:** [linkedin.com/in/helio.bentzen](https://www.linkedin.com/in/helio.bentzen/)
   
 ### Interests
-- Web, Mobile, Software Engineer
+- Software Engineer, Web, Mobile
 
 ### Technology Stack
 <p>
