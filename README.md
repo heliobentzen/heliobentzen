@@ -37,7 +37,7 @@
 <h2 align="center">🧑‍💻 About Me</h2>
 
 <p align="center">
-  <em>Passionate software engineer focused on building modern, scalable web and mobile applications. Currently studying at <strong>IFPE - Palmares</strong>, always exploring new technologies and best practices.</em>
+  <em>Passionate software engineer focused on building modern, scalable web and mobile applications. Currently professor at <strong>IFPE - Palmares</strong>, always exploring new technologies and best practices.</em>
 </p>
 
 <div align="center">
