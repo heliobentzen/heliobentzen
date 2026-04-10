@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Helio%20Bentzen&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Web%20%7C%20Mobile&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Helio%20Bentzen&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Professor,%20Software%20Engineer%20%7C%20Web%20%7C%20Mobile&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" alt="header" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
